@@ -1,1 +1,1 @@
-# Algo is Love ❤️🥰
+# Algo is Love ❤️
