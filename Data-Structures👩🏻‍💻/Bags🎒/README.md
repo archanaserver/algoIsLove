@@ -1,6 +1,6 @@
 # BAG Data Structure 🛍
 
-- Bag Data Structure is also known as **multiset**.
+- Bag Data Structure is also known as **Multiset**.
 
 - It is an unordered collection of objects/values that may have duplicates. It contain collection of zero or more element of same type.
 
